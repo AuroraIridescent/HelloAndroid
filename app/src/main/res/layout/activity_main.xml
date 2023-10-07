@@ -21,5 +21,12 @@
         android:layout_marginTop="50dp"
         android:text="Seconde Activity"
         android:textAllCaps="false" />
+    <Button
+        android:id="@+id/btn_jump1"
+        android:layout_width="384dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:text="Counter Activity"
+        android:textAllCaps="false" />
 
 </LinearLayout>
